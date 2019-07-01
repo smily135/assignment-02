@@ -1,0 +1,186 @@
+.fristrow{
+    height: 200px;
+    width: 100%;
+    /* background-color: aqua; */
+    box-sizing: border-box;
+}
+
+.frist{
+    height: 200px;
+    width: 33.3%;
+    /* background-color: green; */
+    box-sizing: border-box;
+    float: left;
+    padding: 10px;
+}
+   
+
+.secend{
+    height: 200px;
+    width: 33.3%;
+    /* background-color: yellow; */
+    box-sizing: border-box;
+    float: left;
+    padding: 10px;
+}
+   
+    
+.third{
+    height: 200px;
+    width: 33.3%;
+    /* background-color: #1E88E5; */
+    box-sizing: border-box;
+    float: left;
+    padding: 10px;
+}
+ 
+.text1{
+    padding: 15px;
+    box-sizing: border-box;
+    background-color: #1E88E5;
+    height: 200px;
+}  
+
+.text2{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #1E88E5;
+    height: 200px;
+}
+   
+.text3{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #1E88E5;
+    height: 200px;
+}
+  
+.secrow{}
+  
+.col{
+    box-sizing: border-box;
+    padding: 10px;
+    height: 200px;
+    background-color: #1E88E5;
+}
+.secrow{
+    height: 200px;
+    /* background-color: green; */
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.thrid{
+    
+height: 200px;
+    
+/* background-color: cadetblue; */
+    
+box-sizing: border-box;
+    
+margin-top: 20px;
+}
+.thfir{
+   
+height: 200px;
+   
+width: 50%;
+   
+box-sizing: border-box;
+   
+padding: 10px;
+   
+/* background-color: #634242; */
+   
+float: left;
+}
+.thsec{
+    
+height: 200px;
+    
+width: 50%;
+    
+box-sizing: border-box;
+    
+padding: 10px;
+    
+/* background-color: #242425; */
+    
+float: left;
+}
+.four{
+    height: 200px;
+    /* background-color: green; */
+    margin-top: 20px;
+    box-sizing: border-box;
+    padding: px;
+}
+.forfr{
+    height: 200px;
+    width: 70%;
+    /* background-color: #fafdfd; */
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.forsec{
+    height: 200px;
+    width: 15%;
+    /* background-color: yellow; */
+    float: left;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.forthi{height: 200px;width: 15%;/* background-color: #d2d243; */float: left;box-sizing: border-box;height: 200px;width: 15%;/* background-color: yellow; */float: left;box-sizing: border-box;padding: 10px;}
+.forfr1{
+    box-sizing: border-box;
+    height: 200px;
+    background-color: #1E88E5;
+    padding: 10px;
+}
+.forsec1{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #1E88E5;
+    height: 200px;
+    padding: 10px;
+}
+.forthi1{/* box-sizing: border-box; */padding: 10px;background-color: #1E88E5;height: 200px;box-sizing: border-box;}
+.thtext1{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #1E88E5;
+    height: 200px;
+    float: left;
+    width: 100%;
+}
+.thtext2{
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: #1E88E5;
+    height: 200px;
+    float: left;
+    width: 100%;
+}
+.full{
+    width: 80%;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+ul{}
+li{}
+ul li{
+    list-style: none;
+    float: left;
+    padding: 12px;
+    font-style: oblique;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+a{}
+li a{}
+.ul{
+    list-style: none;
+    margin-left: 70px;
+}
+h1{}
